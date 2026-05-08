@@ -7,5 +7,8 @@ This game, however, had progressed far beyond what I had initially expected. It 
 
 **Expect this to be made with AI, not fully using it. The models and things that are not scripts are purely made using rice and protein as fuel.**
 
-**Developer Logs**
+**Developer's Notes:**
+- *Update later~*
+
+**Developer Logs:**
 - As of 05-08-2026. The game has a simple, random, and specific procedural dungeon generation. I'm currently attempting the advanced generation for a scene. It's a scene specialty.
